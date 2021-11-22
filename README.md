@@ -1,7 +1,7 @@
 # Api Node com Typescript e GraphQL 
 
 ## Instalar Dependencias
-`npm install`
+`yarn`
 ## Banco de Dados (MongoDB)
 Para executar o banco de dados com o docker: 
 ```bash
